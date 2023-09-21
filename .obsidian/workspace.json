@@ -11,8 +11,12 @@
             "id": "ce3be2a7e05f77cf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/test-pr.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/test-pr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/test-pr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/test-pr.md"
+              }
             }
           }
         ]
@@ -138,20 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8af9e1f9e6dc5619",
+  "active": "ce3be2a7e05f77cf",
   "lastOpenFiles": [
-    "site/search/search_index.json",
-    "site/search",
-    "site/index.html",
-    "site/404.html",
-    "site/sitemap.xml.gz",
-    "site/sitemap.xml",
-    "site/assets/stylesheets/palette.649f08f9.min.css.map",
-    "site/assets/stylesheets/palette.649f08f9.min.css",
-    "site/assets/stylesheets/main.9f615399.min.css",
-    "site/assets/stylesheets/main.9f615399.min.css.map",
-    "site/assets/stylesheets",
-    "site/assets/images/favicon.png",
-    "docs/index.md"
+    "docs/index.md",
+    "docs/test-pr.md",
+    "docs/pr-test.md",
+    "site/assets/javascripts/lunr/min/lunr.ja.min 2.js",
+    "site/assets/javascripts/lunr/min/lunr.it.min 2.js",
+    "site/assets/javascripts/lunr/min/lunr.nl.min 2.js",
+    "site/assets/javascripts/lunr/min/lunr.tr.min 2.js",
+    "site/assets/javascripts/lunr/min/lunr.sv.min 2.js",
+    "site/assets/javascripts/lunr/min/lunr.vi.min 2.js",
+    "site/assets/javascripts/lunr/min/lunr.ta.min 2.js",
+    "site/assets/javascripts/lunr/min/lunr.ru.min 2.js",
+    "site/assets/javascripts/lunr/min/lunr.no.min 2.js",
+    "site/assets/javascripts/lunr/min/lunr.stemmer.support.min 2.js",
+    "site/assets/images/favicon.png"
   ]
 }
